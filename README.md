@@ -1,6 +1,13 @@
+Important Information to Note
+-----
+**Please not that "\ExcelSync\packages" is not uploaded on GitHub because this would be ~230MB of excess. The folders are there, but are empty.**
+
+**I don't believe that GitHub allows you to upload things like Word Documents, Microsoft PowerPoint Presentations, Microsoft Project files, etc., so if you were looking to view all contents that I submitted as part of my Senior Project Final Submission, you can download them in a .zip file
+<a href="https://drive.google.com/file/d/1vQwbZSXRYL25ypkEm9tYju6n6KRgIoTa/view?usp=drive_link"> here</a>.**
+
 <img width="600" alt="image" src="https://github.com/iananicro/ITS490FinalProject/assets/63181784/ff2067bb-6faa-4648-a3a2-6afb1927a4fd">
 
-Contents
+Project Contents
 --------
 This Github repository contains all the Front-End GUI C# Windows Form code, as well as all submission deliverables requested by my Senior Project professor, which include things like...
   - The Front-End GUI as an .exe executable
